@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "notes": "Auto release build",
-  "pub_date": "2026-04-30T02:44:21Z",
+  "pub_date": "2026-04-30T02:51:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZlT1lZcUYrOVRwVEpFUXBXdkdXaVZNR1oveTM4M2hJOXluZ2dDMGNGSS9DcVZLU2FBM3FiUHpFWFpjNG56NFh2MDNUSW9XOWdVMktQOFpkb3N6TVVRWC9XeXdndUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE3MDU5CWZpbGU6d3NsX3dyYXBwZXJfMC4xLjE0X3g2NC1zZXR1cC5leGUKeEhWUzM4QUtQaGtjZmRYNDdRbTI2NzArVkZ1eVl0ZWNuQmdYWC95NWJTN0hYMEkxekJ6YTNMQTNyRk8rd3ArQVR6eThtVzZ1ZHpReWtZbzhhVEhtQWc9PQo=",
-      "url": "https://github.com/ramexec/wsl_wrapper_public/releases/latest/download/wsl_wrapper_0.1.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZlT1lZcUYrOVdLelk5OENhK1k5NERCdHRBWFRMbnBnc2N4M1l3bnRwdTBPN3ZnQVpXVWtWejZ0bHVva0haQncvNnc3ak1yVVozaG1QQU9ON1cvaG9PSnhsSzQvWEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE3NTA5CWZpbGU6d3NsX3dyYXBwZXJfMC4xLjE1X3g2NC1zZXR1cC5leGUKak9HYWlzb29zNDk5aFJETk51K1grcVk2MEo4Z1dISXFYRjBCbGFvbXluTXQzRjRvTWpmaTRoU1EyTVVocXFReXVJcDJhZ0FEUXFocDJjVXJCMTlWQXc9PQo=",
+      "url": "https://github.com/ramexec/wsl_wrapper_public/releases/latest/download/wsl_wrapper_0.1.15_x64-setup.exe"
     }
   }
 }
