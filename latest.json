@@ -1,0 +1,11 @@
+{
+  "version": "0.1.9",
+  "notes": "Auto release build",
+  "pub_date": "30-04-2026T 7:41:55.52Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/ramexec/wsl_wrapper_public/releases/latest/download/wsl_wrapper_0.1.9_x64-setup.exe"
+    }
+  }
+}
